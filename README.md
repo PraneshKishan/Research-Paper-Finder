@@ -23,11 +23,11 @@ Install dependencies: This app requires Streamlit, requests, and BeautifulSoup4:
   'pip install streamlit requests beautifulsoup4'
 
 
-##To run the code
+## To run the code
 streamlit run app.py
 - Open your browser and go to http://localhost:8501 to use the app.
 
-#Usage
+## Usage
 - Enter the search tags in the input box (e.g., "machine learning in healthcare").
 - Press the Search button to fetch related research papers.
 - The app will display a list of paper titles, abstracts, and links.
