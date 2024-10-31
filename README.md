@@ -23,9 +23,9 @@ Install dependencies: This app requires Streamlit, requests, and BeautifulSoup4:
   'pip install streamlit requests beautifulsoup4'
 
 
-#To run the code
-  'streamlit run app.py'
-  Open your browser and go to http://localhost:8501 to use the app.
+##To run the code
+streamlit run app.py
+- Open your browser and go to http://localhost:8501 to use the app.
 
 #Usage
 - Enter the search tags in the input box (e.g., "machine learning in healthcare").
